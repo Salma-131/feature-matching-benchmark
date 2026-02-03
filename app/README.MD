@@ -52,7 +52,7 @@ It compares **learning-based approaches** (SuperPoint, DISK + LightGlue) with th
 
 ---
 
-##🧩Visualization
+## 🧩Visualization
 
 - Matches drawn using OpenCV
 - Adjustable match color
