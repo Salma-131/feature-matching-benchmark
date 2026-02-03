@@ -7,25 +7,25 @@ It compares **learning-based approaches** (SuperPoint, DISK + LightGlue) with th
 
 ## ✨ Features
 
-- 🧠 Learning-based & classical feature extractors  
+- Learning-based & classical feature extractors  
   - SuperPoint + LightGlue  
   - DISK + LightGlue  
   - SIFT (OpenCV)
 
-- ⏱️ Accurate inference timing  
+- Accurate inference timing  
   - Model loading excluded  
   - CUDA synchronization for precise GPU timing  
 
-- 🧩 Custom match visualization  
+- Custom match visualization  
   - Concatenated images  
   - Colored match lines  
   - Keypoints drawn on top  
 
-- 🖥️ CPU & GPU support  
+- CPU & GPU support  
   - Automatic device detection  
   - GPU warm-up for fair benchmarking  
 
-- 🛡️ Memory-safe execution  
+- Memory-safe execution  
   - Image resizing  
   - Explicit garbage collection  
   - CUDA cache cleanup  
@@ -33,7 +33,7 @@ It compares **learning-based approaches** (SuperPoint, DISK + LightGlue) with th
 
 ---
 
-## 🧪 Supported Methods
+## Supported Methods
 
 | Method        | Type           | Description |
 |---------------|----------------|-------------|
@@ -52,7 +52,7 @@ It compares **learning-based approaches** (SuperPoint, DISK + LightGlue) with th
 
 ---
 
-## 🖼️ Visualization
+##🧩Visualization
 
 - Matches drawn using OpenCV
 - Adjustable match color
@@ -61,9 +61,9 @@ It compares **learning-based approaches** (SuperPoint, DISK + LightGlue) with th
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
-git clone https://github.com/your-username/feature-matcher-pro.git
-cd feature-matcher-pro
+git clone https://github.com/Salma-131/feature-matching-benchmark.git
+cd feature-matching-benchmark/app
